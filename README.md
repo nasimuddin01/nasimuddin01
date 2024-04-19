@@ -1,6 +1,6 @@
 # Hi there, I am Nasim 👋
 
-### Generalist Developer & Designer
+### Maker of new things (Designer, Developer, Entrepreneur)
 
 ### BIO
 
