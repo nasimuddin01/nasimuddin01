@@ -1,14 +1,15 @@
 # Hi there, I am Nasim 👋
 
-### I'm a Full-Stack Developer & Designer working remotely from Bangladesh
+### Generalist Developer & Designer
 
 ### BIO
 
-- 🏢 I'm currently working at **CONNEKT STUDIO**
-- ⚙️ I use daily: `HTML`, `CSS`, `Javascript`, `Vue.js`, `Nuxt.js`, `Nodejs`, `Firebase`, `Mongodb`, `Postgres`, `GCP`,
-  `git` & `figma`
-- 💅 Worked on: [100App](https://100app.co.uk/), [Nuditae](https://nuditae.netlify.app/),
-  [Pathways Education](https://www.pathwaystoeducation.tech/) etc…
-- 💬 Ping me about **JavaScript**, **Vue**, **Serverless**, **Figma**, **Designing**
+- 🏢 Founder, CEO at **CONNEKT STUDIO**
+- 🏢 Senior Software Engineer at **Audience Town**
+- ⚙️ Tech: `HTML`, `CSS`, `Javascript`, `Vue.js`, `React.js` `Nuxt.js`, `Nodejs`, `Python`, `Firebase`, `MongoDB`, `Postgres`, `SQL`, `GCP`, `BigQuery`, `Serverless`,
+  `git` & `Figma`
+- 💅 Worked on: [Vocalo.ai](https://vocalo.ai), [HeyLuna.ai](https://heyluna.ai),
+  [ScribbleToArt.com](https://scribbletoart.com) etc…
+- 💬 Ping me about **Product Development**, **JavaScript**, **Saas**, **Serverless**, **Figma**
 - 📫 Reach me: [twitter.com/nasimuddin01](https://twitter.com/nasimuddin01)
 - ⚡️ Fun fact: I'm a huge fan of Fantasy Movies
